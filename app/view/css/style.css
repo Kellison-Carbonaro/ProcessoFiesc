@@ -1,0 +1,34 @@
+.erro-input{
+    border-color: #f00;
+}
+
+.success-input{
+    border-color: #333;
+}
+
+.formulario{
+    margin-top: 20px;
+    margin-bottom: 20px;;
+}
+
+.formulario-cadastro{
+    margin-top: 15px;
+    background-color: #FFF;
+    text-align: center;
+    border-radius: 25px;
+    padding: 30px 10px;
+}
+
+.titulo-1{
+    color: #000;
+    text-align: center;
+}
+
+.input-formulario{
+    width: 80%;
+}
+
+.label-formulario{
+    width: 10%;
+    margin-bottom: 20px;
+}
